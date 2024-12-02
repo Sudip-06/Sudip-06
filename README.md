@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudip-06
-- 👀 I’m interested in machine learning artificial intelligence
-- 🌱 I’m currently learning machine learning and app devolopment
+- 👀 I’m interested in machine learning & artificial intelligence
+- 🌱 I’m currently learning ML and app development
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
